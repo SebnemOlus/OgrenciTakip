@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciTakip", "OgrenciTakip\OgrenciTakip.csproj", "{CAF27ADB-22BD-44E8-AC09-82501BF8362E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JIDBFramework", "JIDBFramework\JIDBFramework.csproj", "{09A85104-30A3-4ED7-812B-FD650DDCDDD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF27ADB-22BD-44E8-AC09-82501BF8362E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF27ADB-22BD-44E8-AC09-82501BF8362E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF27ADB-22BD-44E8-AC09-82501BF8362E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF27ADB-22BD-44E8-AC09-82501BF8362E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A85104-30A3-4ED7-812B-FD650DDCDDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A85104-30A3-4ED7-812B-FD650DDCDDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A85104-30A3-4ED7-812B-FD650DDCDDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A85104-30A3-4ED7-812B-FD650DDCDDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828499CB-7092-4F1E-9584-86D44F8660CF}
+	EndGlobalSection
+EndGlobal

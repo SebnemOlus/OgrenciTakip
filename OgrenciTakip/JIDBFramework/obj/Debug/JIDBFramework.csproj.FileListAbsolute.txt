@@ -1,0 +1,5 @@
+C:\Users\90534\source\repos\OgrenciTakip\JIDBFramework\bin\Debug\JIDBFramework.dll
+C:\Users\90534\source\repos\OgrenciTakip\JIDBFramework\bin\Debug\JIDBFramework.pdb
+C:\Users\90534\source\repos\OgrenciTakip\JIDBFramework\obj\Debug\JIDBFramework.dll
+C:\Users\90534\source\repos\OgrenciTakip\JIDBFramework\obj\Debug\JIDBFramework.pdb
+C:\Users\90534\source\repos\OgrenciTakip\JIDBFramework\obj\Debug\JIDBFramework.csprojAssemblyReference.cache
